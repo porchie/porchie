@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @porchie
 - 👀 I’m interested in ... Computers
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java, C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
